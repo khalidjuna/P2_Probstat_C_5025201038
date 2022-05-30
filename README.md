@@ -82,3 +82,5 @@ H1
 
 3b
 Hitung Sampel Statistik Penghitungan dilakukan sebagai berikut
+![image](https://user-images.githubusercontent.com/87630117/170896697-d5447ad6-06cb-4bd9-b675-c3e2b438b741.png)
+
